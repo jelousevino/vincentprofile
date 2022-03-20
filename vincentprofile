@@ -1,1 +1,211 @@
+<!DOCTYPE HTML>
+<!--
+	Minimaxing by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>myprofilevincent</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+		<div id="page-wrapper">
 
+			<!-- Header -->
+				<div id="header-wrapper">
+					<div class="container">
+						<div class="row">
+							<div class="col-12">
+
+								<header id="header">	
+									<h1><a href="index.html" id="logo">My Profile</a></h1>
+									<nav id="nav">
+										<a href="" class="current-page-item">logout</a>
+										<a href="">home</a>
+										<a href="">settings</a>
+									</nav>
+								</header>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+			<!-- Banner -->
+				<div id="banner-wrapper">
+					<div class="container">
+
+						<div id="banner">
+							<h2>MY PROFILE</h2>
+							<span>by VINCENT BERNIDO</span>	
+						</div>
+
+					</div>
+				</div>
+
+			<!-- Main -->
+				<div id="main">
+					<div class="container">
+						<div class="row main-row">
+							<div class="col-4 col-12-medium">
+
+								<section>
+									<h2>Personal information</h2>
+									<p>I'm a Personable and <strong>astute student with proven time</strong>, management and collaboration skills developed from sporting and other social activities.<a href="http://twitter.com/ajlkn"></a> Understanding of general employability skills and the <a href="http://html5up.net">imporatance of working as part of</a> a team, earning from others
+									and developing as a professional.</p>
+									<footer class="controls">
+										<a href="https://myapps.rmit.edu.au/nidp/app" class="button">rmit university log in</a>
+									</footer>
+								</section>
+
+							</div>
+							<div class="col-4 col-6-medium col-12-small">
+
+								<section>
+									<h2>Interest In information technology</h2>
+									<ul class="small-image-list">
+										<li>
+
+
+											<p>I am interested in this specific sector of IT because I personally experience how technology affects people's lives and I wanted to be a part of an organization that is creating that impact and it has an important study of information systems. And IT is a large industry that covers product development and service categories that are too numerous to list.
+												</p>
+										</li>
+										<li>											
+										</li>
+									</ul>
+								</section>
+
+							</div>
+							<div class="col-4 col-6-medium col-12-small">
+
+								<section>
+									<h2>Contact Informations</h2>
+									<div>
+										<div class="row">
+											<div class="col-6 col-12-small">
+												<ul class="link-list">
+													<li><a href="#">• #: s3956695</a></li>
+													<li><a href="#">• e: student@rmit.edu.au</a></li>
+													<li><a href="#">• m: +610378730</a>
+													<li><a href="#">• w: www.github.com/</a></li>
+													<a href="https://github.com/" class="button">To github</a>
+												</ul>
+											</div>
+											<div class="col-6 col-12-small">
+												<ul class="link-list">
+												</ul>
+											</div>
+										</div>
+									</div>
+								</section>
+
+							</div>
+							<div class="col-6 col-12-medium">
+
+								<section>
+									<h2>Ideal Job</h2>
+									<ul class="big-image-list">
+										<li>
+											<a href="#"><img src="https://academy.avast.com/hubfs/New_Avast_Academy/what_is_the_cyber_kill_chain_academy_smb/Avast-Academy-Cyber-Kill-Chain-Hero.jpg" alt="" class="left" /></a>
+											<h3>Software develop or Engineering</h3>
+											<h3>Description</h3>
+											<p>I'm passionable student and extremely interested to learn variety skills in software engineering to ensure my performance in the future and improve my communication skills. Software engineering provides us a particular knowledge such as a programming languages, software designing, information systems and database software architectures.</p>
+										</li>
+										<li>
+											<a href="#"><img src="https://woz-u.com/wp-content/uploads/2020/02/What-Do-Software-Engineers-Do-WOZ-1-min.png" alt="" class="left" /></a>
+											<h3>Skills I have</h3>
+											<p>I'm a good commumicator and actively listens and effectively conveys informations whether verbal or written. Can work with minimal supervision and hard working in achieving obejectives lastly I'm a team player who creates productive environment and confidently motivates team members to meet high performance standards.</p>
+											<a href="#"><img src="https://eideabox.com/images/logo/9q36sdeckdgxe5kd.png" alt="" class="left" /></a>
+											<h3>Skills I Need</h3>
+											<p>Improve working on my interpersonal skills, keeping the balance maintaining my communications skills and to learn a various programming languages.</p>
+										</li>
+										</li>
+									</ul>
+								</section>
+
+							</div>
+							<div class="col-6 col-12-medium">
+
+								<article class="blog-post">
+									<h2>My Personality Profile</h2>
+									<a href="#"><img src="https://image-cdn.essentiallysports.com/wp-content/uploads/20200501154743/kobe-bryant-and-michael-jordan-in-1998_c26q5f9j15wo1dotmw4bc7eyp.jpg?width=600" alt="" class="top blog-post-image" /></a>
+									<h3>Weakness and Strength</h3>
+									<h3>Weakness</h3>
+									<p>Hesitator about delegating tasks,Inexperience with specific software or a non essential skill and feeling discomfort taking a big risks.</p>
+									<h3>Strength</h3>
+									<p>I consider my leadership as my greatest strength also which has gave me an ability to work in a team and gained excellent communications skills. .</p>
+									<footer class="controls">
+										<a href="#" class="button">Continue Reading</a>
+									</footer>
+								</article>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<div id="footer-wrapper">
+					<div class="container">
+						<div class="row">
+							<div class="col-8 col-12-medium">
+
+								<section>
+									<div>
+										<div class="row">
+											<div class="col-3 col-6-medium col-12-small">
+												<ul class="link-list">
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-small">
+												<ul class="link-list">
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-small">
+												<ul class="link-list">
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-small">
+												<ul class="link-list">
+												</ul>
+											</div>
+										</div>
+									</div>
+								</section>
+
+							</div>
+							<div class="col-4 col-12-medium">
+
+								<section>
+									<footer class="controls">
+										<a href="#" class="button">The END...</a>
+									</footer>
+								</section>
+
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12">
+
+								<div id="copyright">
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
